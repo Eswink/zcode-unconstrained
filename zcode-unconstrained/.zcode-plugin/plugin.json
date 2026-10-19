@@ -1,0 +1,9 @@
+{
+  "name": "zcode-unconstrained",
+  "version": "0.1.0",
+  "description": "Provider-agnostic ZCode execution contract for direct, unconstrained task completion.",
+  "author": {
+    "name": "YG"
+  },
+  "skills": "./skills"
+}

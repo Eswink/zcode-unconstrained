@@ -1,0 +1,19 @@
+{
+  "name": "zcode-unconstrained",
+  "description": "GitHub marketplace for the zcode-unconstrained provider-agnostic ZCode plugin.",
+  "owner": {
+    "name": "YG"
+  },
+  "plugins": [
+    {
+      "name": "zcode-unconstrained",
+      "description": "Provider-agnostic ZCode execution contract for direct, unconstrained task completion.",
+      "category": "workflow",
+      "source": {
+        "source": "directory",
+        "path": "./zcode-unconstrained"
+      },
+      "strict": false
+    }
+  ]
+}
