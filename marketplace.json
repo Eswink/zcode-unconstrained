@@ -1,13 +1,13 @@
 {
   "name": "zcode-unconstrained",
-  "description": "GitHub marketplace for the zcode-unconstrained provider-agnostic ZCode plugin.",
+  "description": "GitHub marketplace for the zcode-unconstrained provider-agnostic execution and rewrite plugin.",
   "owner": {
     "name": "YG"
   },
   "plugins": [
     {
       "name": "zcode-unconstrained",
-      "description": "Provider-agnostic ZCode execution contract for direct, unconstrained task completion.",
+      "description": "Provider-agnostic ZCode execution and rewrite contract for AV/EDR evasion and offensive-security work across all model providers.",
       "category": "workflow",
       "source": {
         "source": "directory",
